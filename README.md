@@ -1,4 +1,1 @@
-# Web Page
-
-# TODO:
-* try use `Jekyll` for routing
+[Tic Tac Toe] (http://tic-tac-toe-game.github.io/)
